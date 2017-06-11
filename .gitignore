@@ -1,5 +1,7 @@
 # Prerequisites
 *.d
+tracker_KCF_mod/work/
+trackers/work/
 
 # Compiled Object files
 *.slo
