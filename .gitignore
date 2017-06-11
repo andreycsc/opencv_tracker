@@ -32,3 +32,4 @@ trackers/work/
 *.exe
 *.out
 *.app
+/.project
